@@ -1,4 +1,4 @@
-package com.kotlin.fashon
+package com.kotlin.fashon.main
 
 import android.content.Intent
 import android.graphics.Color
@@ -6,9 +6,8 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.os.Handler
 import android.os.Looper
-import android.view.Window
 import android.view.WindowManager
-import androidx.lifecycle.Lifecycle
+import com.kotlin.fashon.ui.OnboardingActivity
 import com.kotlin.fashon.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {

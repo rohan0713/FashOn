@@ -1,6 +1,7 @@
-package com.kotlin.fashon
+package com.kotlin.fashon.data.model
 
-data class product(
+data class Product(
+    val id: String,
     val image : String,
     val name : String,
     val category : String,

@@ -1,4 +1,4 @@
-package com.kotlin.fashon
+package com.kotlin.fashon.ui
 
 import android.content.Intent
 import android.graphics.Color

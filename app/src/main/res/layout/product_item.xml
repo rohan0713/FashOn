@@ -59,7 +59,7 @@
                 android:layout_marginBottom="8dp"
                 android:fontFamily="@font/sen"
                 android:text="Hazy Rose"
-                android:textSize="18sp" />
+                android:textSize="14sp" />
 
             <TextView
                 android:id="@+id/tvProductCost"
@@ -72,7 +72,7 @@
                 android:layout_marginBottom="8dp"
                 android:fontFamily="@font/sen_extrabold"
                 android:text="$250"
-                android:textSize="18sp" />
+                android:textSize="16sp" />
 
         </RelativeLayout>
 
